@@ -1,9 +1,2 @@
-cowboy_hello_world
-=====
-
-An OTP application
-
-Build
------
-
-    $ rebar3 compile
+# caffeine-erl-services
+caffeine rest service out of erl (Arpit)
